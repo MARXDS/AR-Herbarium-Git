@@ -48,16 +48,6 @@ MonoBehaviour:
     m_Name: image-03
     m_Texture: {fileID: 2800000, guid: 282dbd268f4c3d540979e9d6ba3a4be5, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5564457584958870309
-      m_GuidHigh: 13676419243427595683
-    m_SerializedTextureGuid:
-      m_GuidLow: 9616315098121432895
-      m_GuidHigh: 13804371731258510235
-    m_Size: {x: 0.3090909, y: 0.4}
-    m_SpecifySize: 1
-    m_Name: YaraF-Cactus
-    m_Texture: {fileID: 2800000, guid: dfc0ef3f03a185749b8b1b6df3fa92bf, type: 3}
-  - m_SerializedGuid:
       m_GuidLow: 4612625019707478167
       m_GuidHigh: 7463083401672698779
     m_SerializedTextureGuid:
@@ -65,5 +55,15 @@ MonoBehaviour:
       m_GuidHigh: 15703229266852324922
     m_Size: {x: 0.3, y: 0.3882353}
     m_SpecifySize: 1
-    m_Name: PLATE
+    m_Name: Jeremy-PLATE
     m_Texture: {fileID: 2800000, guid: e01cce60078de4e43a2640a5d113edd9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4889220046950556690
+      m_GuidHigh: 4853895665369772716
+    m_SerializedTextureGuid:
+      m_GuidLow: 937915478589773094
+      m_GuidHigh: 13382421598547371066
+    m_Size: {x: 0.3, y: 0.3882353}
+    m_SpecifySize: 1
+    m_Name: Jiaqi Peng-Plate
+    m_Texture: {fileID: 2800000, guid: 92af152625280d043a64ee6f8ae9b7b9, type: 3}

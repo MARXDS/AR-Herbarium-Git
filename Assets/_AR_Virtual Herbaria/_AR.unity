@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -164,11 +164,13 @@ MonoBehaviour:
   - imageGuid: df60e04b-cb11-4be0-943a-852921a9190d
     imagePrefab: {fileID: 2481880503787685997, guid: 6b1a73d97eda07b44aa778653f523bd0,
       type: 3}
-  - imageGuid: b616d6a6-51be-4a37-a4d6-c6bb4051a03f
-    imagePrefab: {fileID: 3934553164528229149, guid: f97bef3c2dbc6e647a5ec3d6b9b3897f,
-      type: 3}
+  - imageGuid: 17339325-ecb1-4d38-a385-d153d766ccbd
+    imagePrefab: {fileID: 0}
   - imageGuid: 45be5097-5604-4003-9bab-d00dd0329267
     imagePrefab: {fileID: 6070231298063365271, guid: bfeef6b6230c3ce4a9e66f202b6a2b08,
+      type: 3}
+  - imageGuid: 7f34e412-ffba-43d9-ac72-2cff63805c43
+    imagePrefab: {fileID: 3934553164528229149, guid: f97bef3c2dbc6e647a5ec3d6b9b3897f,
       type: 3}
   m_ImageLibrary: {fileID: 11400000, guid: 088b3adb2a102f543bd556db081b2486, type: 2}
 --- !u!114 &264295717
