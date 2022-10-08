@@ -28,16 +28,6 @@ MonoBehaviour:
     m_Name: image-01
     m_Texture: {fileID: 2800000, guid: 104b08becd635b84783487a798b91bb7, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5443818775441930252
-      m_GuidHigh: 14183838997583801268
-    m_SerializedTextureGuid:
-      m_GuidLow: 14021103819185836232
-      m_GuidHigh: 2303053937271226203
-    m_Size: {x: 0.3, y: 0.41995397}
-    m_SpecifySize: 1
-    m_Name: image-02
-    m_Texture: {fileID: 2800000, guid: f571d0c8f7a2c2945bbf9d955a17f61f, type: 3}
-  - m_SerializedGuid:
       m_GuidLow: 5564457584958870309
       m_GuidHigh: 13676419243427595683
     m_SerializedTextureGuid:
