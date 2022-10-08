@@ -47,3 +47,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: image-03
     m_Texture: {fileID: 2800000, guid: 282dbd268f4c3d540979e9d6ba3a4be5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4634013614529374251
+      m_GuidHigh: 10618693349864005272
+    m_SerializedTextureGuid:
+      m_GuidLow: 9792113316233407994
+      m_GuidHigh: 13430540939752903608
+    m_Size: {x: 0.3, y: 0.3882353}
+    m_SpecifySize: 1
+    m_Name: XU-plate
+    m_Texture: {fileID: 2800000, guid: 2676edfa932e87e4b813509fd3dd62ba, type: 3}
